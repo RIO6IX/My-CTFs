@@ -10,11 +10,11 @@ Welcome to the **Frank CTF Challenge**, a hands-on Capture The Flag (CTF) exerci
 - **Theme**: Frank Castle (The Punisher)
 - **Difficulty**: Beginner to Intermediate
 - **Techniques Explored**:
-  - FTP enumeration and anonymous access
+  - FTP enumeration 
   - Web directory enumeration
-  - Decoding base64 strings
+  - base64 strings
   - SSH key exploitation
-  - Privilege escalation using misconfigured `sudo` permissions
+  - Privilege escalation 
 
 ---
 
