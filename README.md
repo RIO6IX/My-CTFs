@@ -4,7 +4,6 @@ Welcome to my collection of CTF challenges! Each challenge has its own unique th
 
 ## List of Challenges
 1. [**Frank CTF Challenge**](Frank-CTF.md)  
-   Inspired by the Punisher TV series.
 
 ---
 
