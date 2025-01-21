@@ -1,6 +1,6 @@
 # Frank CTF Challenge
 
-![Frank CTF Logo](images/frank-ctf-logo.png "Frank CTF Logo")
+![Frank CTF Logo](images/frank-ctf-logo.jpg "Frank CTF Logo")
 
 Welcome to the **Frank CTF Challenge**, a hands-on Capture The Flag (CTF) exercise inspired by Frank Castle, also known as the Punisher. This challenge tests your skills in reconnaissance, exploitation, and privilege escalation. Dive into this realistic scenario and sharpen your penetration testing abilities.
 
