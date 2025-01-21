@@ -2,6 +2,8 @@
 
 Welcome to the **Frank CTF Challenge**, inspired by the Punisher TV series. This repository contains instructions and files to set up and solve the Frank CTF.
 
+blog :- https://medium.com/@chanuka1/frank-8ee9dcc6ed93
+
 ---
 
 ## Challenge Details
@@ -28,6 +30,7 @@ The `.ova` file for the challenge is hosted on Google Drive due to file size lim
 
 ## Contact
 If you encounter any issues or have questions, feel free to reach out.
+https://www.linkedin.com/in/chanuka-isuru-sampath-289358247/
 
 ---
 
