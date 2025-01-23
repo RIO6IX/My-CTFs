@@ -4,7 +4,7 @@ Welcome to my collection of CTF challenges! Each challenge has its own unique th
 
 ## List of Challenges
 1. [**Frank CTF Challenge**](ctfs/Frank-CTF.md)
-2. [**Frank CTF Challenge**](ctfs/Find-Me-CTF.md)
+2. [**Find Me CTF Challenge**](ctfs/Find-Me-CTF.md)
 
 ---
 
