@@ -3,7 +3,8 @@
 Welcome to my collection of CTF challenges! Each challenge has its own unique theme and tech stack. Click on a CTF name below to view its details and download links.
 
 ## List of Challenges
-1. [**Frank CTF Challenge**](ctfs/Frank-CTF.md)  
+1. [**Frank CTF Challenge**](ctfs/Frank-CTF.md)
+2. [**Frank CTF Challenge**](ctfs/Find-Me-CTF.md)
 
 ---
 
