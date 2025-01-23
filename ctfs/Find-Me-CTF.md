@@ -28,7 +28,7 @@ To view the complete walkthrough and in-depth explanation of the challenge, visi
 ## Download the CTF
 The `.ova` file for this challenge is hosted on Google Drive. You can download it using the link below:
 
-[**Download Find Me CTF .ova**](https://drive.google.com/drive/folders/15S0CmM3TCjdWbcC1Z7FIbW4_jv8eUKIy?usp=sharing)
+[**Download Find Me CTF .ova**](https://drive.google.com/drive/folders/1hAmljZ-B5XvwMZSf-gnR2XueC0wR-Wk-?usp=sharing)
 
 ---
 
