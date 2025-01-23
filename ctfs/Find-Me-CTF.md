@@ -1,6 +1,6 @@
 # Find Me CTF Challenge 
 
-![Find Me CTF Logo](logos/find-me-ctf-logo.jpg "Find Me CTF Logo")
+![Find Me CTF Logo](/logos/find-me-ctf-logo.jpg "Find Me CTF Logo")
 
 Welcome to the **Find Me CTF Challenge**, a hands-on Capture The Flag (CTF) exercise designed to enhance your skills in reconnaissance, exploitation, and privilege escalation. This challenge takes you through a realistic hacking scenario where you uncover vulnerabilities and capture both user and root flags.
 
