@@ -42,5 +42,6 @@ Feel free to contribute by adding new challenges or improving existing ones!
 For any questions, reach out via GitHub issues.
 1. [**My Linkedin**](https://www.linkedin.com/in/chanuka-isuru-sampath-289358247/)
 2. [**My Portfolio Website**](https://rio6ix.github.io/chanuka/)
+3. [**Medium Blogs**](https://medium.com/@chanuka1)
 
  
