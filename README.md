@@ -21,8 +21,8 @@ Challenges focused on cryptographic algorithms and their weaknesses.
 Challenges on buffer overflows, format string vulnerabilities, and other binary-related exploits.
 
 ### 6. Other CTF Challenges
-- [Frank CTF Challenge](frank_ctf/README.md)
-- [Find Me CTF Challenge](find_me_ctf/README.md)
+- [Frank CTF Challenge](./ctfs/Frank-CTF.md)
+- [Find Me CTF Challenge](./ctfs/Find-Me-CTF.md)
   
 ---
 ## How to Use
