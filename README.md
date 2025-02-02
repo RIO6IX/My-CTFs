@@ -4,32 +4,27 @@ Welcome to my collection of CTF challenges! Each challenge has its own unique th
 
 ## List of Challenges
 
-### 1. Web Exploitation
+### 1. [Web Exploitation](web_exploitation/README.md)
 Challenges related to web security vulnerabilities.
-[Read More](web_exploitation/README.md)
 
-### 2. Reverse Engineering
+
+### 2. [Reverse Engineering](reverse_engineering/README.md)
 Challenges that require analyzing binaries, debugging, and reversing logic.
 [Read More](reverse_engineering/README.md)
 
-### 3. Forensics
+### 3. [Forensics](forensics/README.md)
 Challenges that involve analyzing files, memory dumps, and other digital traces.
-[Read More](forensics/README.md)
 
-### 4. Cryptography
+### 4. [Cryptography](cryptography/README.md)
 Challenges focused on cryptographic algorithms and their weaknesses.
-[Read More](cryptography/README.md)
 
-### 5. Binary Exploitation
+### 5. [Binary Exploitation](binary_exploitation/README.md)
 Challenges on buffer overflows, format string vulnerabilities, and other binary-related exploits.
-[Read More](binary_exploitation/README.md)
 
----
-
-### Other CTF Challenges
+### 6. Other CTF Challenges
 - [Frank CTF Challenge](frank_ctf/README.md)
 - [Find Me CTF Challenge](find_me_ctf/README.md)
-
+---
 ## How to Use
 - Click on the challenge name to view its details.
 - Follow the instructions in the corresponding `.md` file to set up and solve the challenge.
